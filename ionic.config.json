@@ -1,0 +1,7 @@
+{
+  "name": "IEXP-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
